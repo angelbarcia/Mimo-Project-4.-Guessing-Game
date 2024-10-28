@@ -1,0 +1,28 @@
+body{
+    background-color: lightskyblue;
+  }
+  div{
+    text-align: center;
+    
+  }
+  h1{
+    border: solid 5px purple;
+    border-radius: 15px;
+    padding: 0;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+  }
+  #guess{
+    border-radius: 15px;
+    background-color: antiquewhite;
+  }
+  #para{
+    font-size: 12pt;
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+  }
+  button{
+    border-radius: 15px;
+  }
